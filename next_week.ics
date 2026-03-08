@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custis/Modeus//Schedule Calendar App//RU
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09c00546-d9aa-4e9a-9678-4893613811fa
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260317T115500
+DTEND;TZID=Europe/Moscow:20260317T133000
+SUMMARY:Низкоуровневое программирование (10.05.03) / Лекционное занятие 6 / НП:БИТ:34-34-16 Л-01
+LOCATION:Таганрог\, корпус Г / Г-215
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Алексеев Дмитрий Михайлович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2209c00546-d9aa-4e9a-9678-4893613811fa%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2209c00546-d9aa-4e9a-9678-4893613811fa%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T11:55:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:НП
+END:VEVENT
+BEGIN:VEVENT
+UID:0a821fb2-5acb-4c83-b9dc-a4ccda60b6da
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260320T134500
+DTEND;TZID=Europe/Moscow:20260320T152000
+SUMMARY:Низкоуровневое программирование (10.05.03) / Практическое занятие 5 / НП:БИТ:34-34-16 П-01
+LOCATION:Таганрог\, корпус И / И-425
+DESCRIPTION:Практическое занятие / Семинар\n\nПреподаватель: Романенко Кирилл Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220a821fb2-5acb-4c83-b9dc-a4ccda60b6da%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220a821fb2-5acb-4c83-b9dc-a4ccda60b6da%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T13:45:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:НП
+END:VEVENT
+BEGIN:VEVENT
+UID:0b530755-fd1f-40f0-87e2-875a1588a5ca
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260318T095000
+DTEND;TZID=Europe/Moscow:20260318T133000
+SUMMARY:Технологии обнаружения атак - 1 / Лабораторная работа 1. Обнаружение вторжений стандартными средствами операционных систем семейств Windows и Linux. Ч.2 / ТОА-1 ЛБ-02
+LOCATION:Таганрог\, корпус И / И-419
+DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Быстрая Злата Александровна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220b530755-fd1f-40f0-87e2-875a1588a5ca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-18T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220b530755-fd1f-40f0-87e2-875a1588a5ca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-18T09:50:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:ТОА-1
+END:VEVENT
+BEGIN:VEVENT
+UID:202bf129-6ab9-4faf-bcbb-694ec3e0e817
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260320T155000
+DTEND;TZID=Europe/Moscow:20260320T172500
+SUMMARY:Дисциплины по физической культуре и спорту Пятница 15.50 весенний семестр / Практическое занятие / Дисциплины по физической культуре и спорту Пятница 15.50 П-01
+LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 1
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Дебердеев Мурат Петрович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22202bf129-6ab9-4faf-bcbb-694ec3e0e817%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22202bf129-6ab9-4faf-bcbb-694ec3e0e817%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T15:50:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Дисциплины по физической культуре и спорту Пятница 15.50
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2dd308-cc36-4420-9e47-945b7b290037
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T115500
+DTEND;TZID=Europe/Moscow:20260316T133000
+SUMMARY:Военная подготовка / Военная подготовка / ВП-2 П-01
+LOCATION:Таганрог\, корпус Г / Военный учебный центр
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%222a2dd308-cc36-4420-9e47-945b7b290037%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%222a2dd308-cc36-4420-9e47-945b7b290037%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T11:55:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Военная подготовка
+END:VEVENT
+BEGIN:VEVENT
+UID:45d749f9-e928-4d3e-ae3e-217a2b592fc9
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T080000
+DTEND;TZID=Europe/Moscow:20260316T093500
+SUMMARY:Военная подготовка / Военная подготовка / ВП-2 П-01
+LOCATION:Таганрог\, корпус Г / Военный учебный центр
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2245d749f9-e928-4d3e-ae3e-217a2b592fc9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2245d749f9-e928-4d3e-ae3e-217a2b592fc9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T08:00:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Военная подготовка
+END:VEVENT
+BEGIN:VEVENT
+UID:56297470-05b6-460e-a27c-1991d1b8fafd
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260317T134500
+DTEND;TZID=Europe/Moscow:20260317T152000
+SUMMARY:Организационное и правовое обеспечение информационной безопасности / ОЦЕНКА РИСКОВ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ: Идентификация требований\, анализ угроз и уязвимостей. Система оценки общеизвестных уязвимостей: метрики CVSS 3.0 и CVSS 4.0 / ОиПОИБ Л-01
+LOCATION:Таганрог\, корпус Д / Д-230
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Князева Маргарита Владимировна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2256297470-05b6-460e-a27c-1991d1b8fafd%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2256297470-05b6-460e-a27c-1991d1b8fafd%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T13:45:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ОиПОИБ
+END:VEVENT
+BEGIN:VEVENT
+UID:627014ae-8f5e-4666-934a-e174b1982768
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260321T134500
+DTEND;TZID=Europe/Moscow:20260321T152000
+SUMMARY:Творческий проект - 2 (10.05.03) / Практическое занятие 3 / ТПроект-2:100503 П-01
+LOCATION:Online
+DESCRIPTION:Практическое занятие / Семинар\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22627014ae-8f5e-4666-934a-e174b1982768%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-21T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22627014ae-8f5e-4666-934a-e174b1982768%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-21T13:45:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ТПроект-2:100503
+END:VEVENT
+BEGIN:VEVENT
+UID:86ef28aa-c514-4550-9cbe-036bc8d19079
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260317T155000
+DTEND;TZID=Europe/Moscow:20260317T172500
+SUMMARY:Организационное и правовое обеспечение информационной безопасности / Microsoft ThreatModelling Tool. / ОиПОИБ П-02
+LOCATION:Таганрог\, корпус Г / Г-139
+DESCRIPTION:Практическое занятие / Семинар\n\nПреподаватель: Князева Маргарита Владимировна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2286ef28aa-c514-4550-9cbe-036bc8d19079%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2286ef28aa-c514-4550-9cbe-036bc8d19079%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T15:50:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ОиПОИБ
+END:VEVENT
+BEGIN:VEVENT
+UID:8b61604a-c649-4cd5-988d-569bbc587936
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260317T095000
+DTEND;TZID=Europe/Moscow:20260317T112500
+SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лабораторное занятие 5 / БПДиТЗД-1 ЛБ-04
+LOCATION:Таганрог\, корпус И / И-417
+DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Ельчанинова Наталья Борисовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%228b61604a-c649-4cd5-988d-569bbc587936%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%228b61604a-c649-4cd5-988d-569bbc587936%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-17T09:50:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:БПДиТЗД-1
+END:VEVENT
+BEGIN:VEVENT
+UID:b0793a5a-9d54-4791-9920-c8a4bb74611c
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T173500
+DTEND;TZID=Europe/Moscow:20260316T191000
+SUMMARY:Защита информации от утечки по техническим каналам (6 семестр) / Технические каналы утечки речевой информации. / ЗИУпТК Л-01
+LOCATION:Таганрог\, корпус И / И-241
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Помазанов Александр Васильевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22b0793a5a-9d54-4791-9920-c8a4bb74611c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T17:35:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22b0793a5a-9d54-4791-9920-c8a4bb74611c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T17:35:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ЗИУпТК
+END:VEVENT
+BEGIN:VEVENT
+UID:be1cf2d3-fdf1-43c9-a232-99472791b9bf
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T095000
+DTEND;TZID=Europe/Moscow:20260316T112500
+SUMMARY:Военная подготовка / Военная подготовка / ВП-2 П-01
+LOCATION:Таганрог\, корпус Г / Военный учебный центр
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22be1cf2d3-fdf1-43c9-a232-99472791b9bf%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22be1cf2d3-fdf1-43c9-a232-99472791b9bf%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T09:50:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Военная подготовка
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b9d7bc-850e-46a5-b184-4e237efbc493
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T134500
+DTEND;TZID=Europe/Moscow:20260316T152000
+SUMMARY:Военная подготовка / Военная подготовка / ВП-2 П-01
+LOCATION:Таганрог\, корпус Г / Военный учебный центр
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22c5b9d7bc-850e-46a5-b184-4e237efbc493%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22c5b9d7bc-850e-46a5-b184-4e237efbc493%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T13:45:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Военная подготовка
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc325fe-bafc-4d46-a120-d0c624ece5a4
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260320T191500
+DTEND;TZID=Europe/Moscow:20260320T205000
+SUMMARY:Технологии обнаружения атак - 1 / Тема 6. Методы обнаружения атак. Контроль изменений каталогов и файлов. Анализ журналов регистрации. Анализ сетевого трафика. Анализ уведомлений. / ТОА-1 Л-01
+LOCATION:Online
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Жилин Сергей Викторович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cdc325fe-bafc-4d46-a120-d0c624ece5a4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T19:15:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22cdc325fe-bafc-4d46-a120-d0c624ece5a4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T19:15:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ТОА-1
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f8a23a-8165-423a-9a84-06c5d1c0a851
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260319T173500
+DTEND;TZID=Europe/Moscow:20260319T191000
+SUMMARY:Защита информации от утечки по техническим каналам (6 семестр) / Лабораторная работа № 6 / ЗИУпТК ЛБ-04
+LOCATION:Таганрог\, корпус И / И-233
+DESCRIPTION:Лабораторное занятие / Репродуктивная лабораторная работа\n\nПреподаватель: Аксёнова Елена Викторовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22d9f8a23a-8165-423a-9a84-06c5d1c0a851%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-19T17:35:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22d9f8a23a-8165-423a-9a84-06c5d1c0a851%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-19T17:35:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:ЗИУпТК
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f5248e-c646-4d33-9eb1-962f169faa81
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260321T155000
+DTEND;TZID=Europe/Moscow:20260321T172500
+SUMMARY:Безопасность операционных систем / Разграничение доступа в ОС семейства Microsoft Windows\, ч.2 / БОС Л-01
+LOCATION:Таганрог\, корпус И / И-241
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Пескова Ольга Юрьевна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e1f5248e-c646-4d33-9eb1-962f169faa81%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-21T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e1f5248e-c646-4d33-9eb1-962f169faa81%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-21T15:50:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:БОС
+END:VEVENT
+BEGIN:VEVENT
+UID:e8dab663-d252-48df-ae0a-65530c3687b1
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260316T155000
+DTEND;TZID=Europe/Moscow:20260316T172500
+SUMMARY:Военная подготовка / Военная подготовка / ВП-2 П-01
+LOCATION:Таганрог\, корпус Г / Военный учебный центр
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e8dab663-d252-48df-ae0a-65530c3687b1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e8dab663-d252-48df-ae0a-65530c3687b1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-16T15:50:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Военная подготовка
+END:VEVENT
+BEGIN:VEVENT
+UID:eddeeef0-6464-46d1-b884-48b1ba311ee7
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260308T222551
+DTSTART;TZID=Europe/Moscow:20260320T155000
+DTEND;TZID=Europe/Moscow:20260320T172500
+SUMMARY:Дисциплины по физической культуре и спорту / Дисциплины по физической культуре и спорту / ДпФКиС-2 П-07
+LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 2\, Таганрог\, корпус А / Таганрог\, Спортзал № 1\, Таганрог\, корпус Д / Таганрог\, Спортзал № 3\, Общежитие № 5 / Таганрог\, Тренажерный зал № 5
+DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22eddeeef0-6464-46d1-b884-48b1ba311ee7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22eddeeef0-6464-46d1-b884-48b1ba311ee7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-20T15:50:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Дисциплины ФКиС
+END:VEVENT
+END:VCALENDAR
