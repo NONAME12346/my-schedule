@@ -6,9 +6,9 @@ BEGIN:VEVENT
 UID:0871a319-6be7-4c8c-af4c-9f04a99e9e9e
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260312T095000
-DTEND;TZID=Europe/Moscow:20260312T112500
+DTSTAMP:20260308T201326Z
+DTSTART:20260312T065000Z
+DTEND:20260312T082500Z
 SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лабораторное занятие 4 / БПДиТЗД-1 ЛБ-04
 LOCATION:Таганрог\, корпус И / И-417
 DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Ельчанинова Наталья Борисовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220871a319-6be7-4c8c-af4c-9f04a99e9e9e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220871a319-6be7-4c8c-af4c-9f04a99e9e9e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T09:50:00.000Z%22%7D\n
@@ -19,9 +19,9 @@ BEGIN:VEVENT
 UID:3e5e490a-e65d-427d-b0d7-74a8f524d3fb
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260311T095000
-DTEND;TZID=Europe/Moscow:20260311T112500
+DTSTAMP:20260308T201326Z
+DTSTART:20260311T065000Z
+DTEND:20260311T082500Z
 SUMMARY:Низкоуровневое программирование (10.05.03) / Лабораторное занятие 2 / НП:БИТ:34-34-16 ЛБ-01
 LOCATION:Таганрог\, корпус И / И-417
 DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Романенко Кирилл Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%223e5e490a-e65d-427d-b0d7-74a8f524d3fb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%223e5e490a-e65d-427d-b0d7-74a8f524d3fb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T09:50:00.000Z%22%7D\n
@@ -32,9 +32,9 @@ BEGIN:VEVENT
 UID:44adeb84-05a9-4ce1-9c02-17e960f28ae1
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260313T155000
-DTEND;TZID=Europe/Moscow:20260313T172500
+DTSTAMP:20260308T201326Z
+DTSTART:20260313T125000Z
+DTEND:20260313T142500Z
 SUMMARY:Дисциплины по физической культуре и спорту / Дисциплины по физической культуре и спорту / ДпФКиС-2 П-07
 LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 2\, Общежитие № 5 / Таганрог\, Тренажерный зал № 5\, Таганрог\, корпус А / Таганрог\, Спортзал № 1\, Таганрог\, корпус Д / Таганрог\, Спортзал № 3
 DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2244adeb84-05a9-4ce1-9c02-17e960f28ae1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2244adeb84-05a9-4ce1-9c02-17e960f28ae1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\n
@@ -45,9 +45,9 @@ BEGIN:VEVENT
 UID:482f3d86-d3de-4e23-b454-29ff5a84b9c9
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260312T115500
-DTEND;TZID=Europe/Moscow:20260312T133000
+DTSTAMP:20260308T201326Z
+DTSTART:20260312T085500Z
+DTEND:20260312T103000Z
 SUMMARY:Защита информации от утечки по техническим каналам (6 семестр) / Лабораторная работа № 5 / ЗИУпТК ЛБ-04
 LOCATION:Таганрог\, корпус И / И-233
 DESCRIPTION:Лабораторное занятие / Репродуктивная лабораторная работа\n\nПреподаватель: Аксёнова Елена Викторовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22482f3d86-d3de-4e23-b454-29ff5a84b9c9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22482f3d86-d3de-4e23-b454-29ff5a84b9c9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T11:55:00.000Z%22%7D\n
@@ -58,9 +58,9 @@ BEGIN:VEVENT
 UID:6b721f92-194d-4d14-ae0c-b6b6d29a301b
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260313T155000
-DTEND;TZID=Europe/Moscow:20260313T172500
+DTSTAMP:20260308T201326Z
+DTSTART:20260313T125000Z
+DTEND:20260313T142500Z
 SUMMARY:Дисциплины по физической культуре и спорту Пятница 15.50 весенний семестр / Практическое занятие / Дисциплины по физической культуре и спорту Пятница 15.50 П-01
 LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 1
 DESCRIPTION:Практическое занятие\n\nПреподаватель: Дебердеев Мурат Петрович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%226b721f92-194d-4d14-ae0c-b6b6d29a301b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%226b721f92-194d-4d14-ae0c-b6b6d29a301b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\n
@@ -71,9 +71,9 @@ BEGIN:VEVENT
 UID:72e33ac6-086d-40e7-afea-8a114c937603
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260310T095000
-DTEND;TZID=Europe/Moscow:20260310T112500
+DTSTAMP:20260308T201326Z
+DTSTART:20260310T065000Z
+DTEND:20260310T082500Z
 SUMMARY:Безопасность операционных систем / Разграничение доступа в ОС семейства Microsoft Windows\, ч.1 / БОС Л-01
 LOCATION:Таганрог\, корпус И / И-241
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Пескова Ольга Юрьевна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2272e33ac6-086d-40e7-afea-8a114c937603%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2272e33ac6-086d-40e7-afea-8a114c937603%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T09:50:00.000Z%22%7D\n
@@ -84,9 +84,9 @@ BEGIN:VEVENT
 UID:9828838b-8c9d-4de3-a405-a5858ac77c5e
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260311T080000
-DTEND;TZID=Europe/Moscow:20260311T093500
+DTSTAMP:20260308T201326Z
+DTSTART:20260311T050000Z
+DTEND:20260311T063500Z
 SUMMARY:Низкоуровневое программирование (10.05.03) / Практическое занятие 4 / НП:БИТ:34-34-16 П-01
 LOCATION:Таганрог\, корпус И / И-417
 DESCRIPTION:Практическое занятие / Семинар\n\nПреподаватель: Романенко Кирилл Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%229828838b-8c9d-4de3-a405-a5858ac77c5e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%229828838b-8c9d-4de3-a405-a5858ac77c5e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T08:00:00.000Z%22%7D\n
@@ -97,9 +97,9 @@ BEGIN:VEVENT
 UID:cf4828dd-a542-47da-8aa4-4dab2886e699
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260311T134500
-DTEND;TZID=Europe/Moscow:20260311T152000
+DTSTAMP:20260308T201326Z
+DTSTART:20260311T104500Z
+DTEND:20260311T122000Z
 SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лекционное занятие 3 / БПДиТЗД-1 Л-01
 LOCATION:Таганрог\, корпус И / И-409
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Басан Александр Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cf4828dd-a542-47da-8aa4-4dab2886e699%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22cf4828dd-a542-47da-8aa4-4dab2886e699%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T13:45:00.000Z%22%7D\n
@@ -110,9 +110,9 @@ BEGIN:VEVENT
 UID:e6f59220-91c1-4c22-b5ae-96fef91d0ab7
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260310T115500
-DTEND;TZID=Europe/Moscow:20260310T133000
+DTSTAMP:20260308T201326Z
+DTSTART:20260310T085500Z
+DTEND:20260310T103000Z
 SUMMARY:Низкоуровневое программирование (10.05.03) / Лекционное занятие 5 / НП:БИТ:34-34-16 Л-01
 LOCATION:Таганрог\, корпус Г / Г-215
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Алексеев Дмитрий Михайлович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e6f59220-91c1-4c22-b5ae-96fef91d0ab7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e6f59220-91c1-4c22-b5ae-96fef91d0ab7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T11:55:00.000Z%22%7D\n
@@ -123,9 +123,9 @@ BEGIN:VEVENT
 UID:f3090e4d-508f-4d66-a0a7-d87948aaff98
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260313T191500
-DTEND;TZID=Europe/Moscow:20260313T205000
+DTSTAMP:20260308T201326Z
+DTSTART:20260313T161500Z
+DTEND:20260313T175000Z
 SUMMARY:Технологии обнаружения атак - 1 / Тема 5. Признаки атак. Обнаружение следов атак. / ТОА-1 Л-01
 LOCATION:Online
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Жилин Сергей Викторович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22f3090e4d-508f-4d66-a0a7-d87948aaff98%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T19:15:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22f3090e4d-508f-4d66-a0a7-d87948aaff98%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T19:15:00.000Z%22%7D\n
@@ -136,9 +136,9 @@ BEGIN:VEVENT
 UID:feed497b-1a87-428d-9164-3942baa904f4
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T221811
-DTSTART;TZID=Europe/Moscow:20260310T134500
-DTEND;TZID=Europe/Moscow:20260310T152000
+DTSTAMP:20260308T201326Z
+DTSTART:20260310T104500Z
+DTEND:20260310T122000Z
 SUMMARY:Организационное и правовое обеспечение информационной безопасности / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛЕНИЯ РИСКАМИ ИБ. Microsoft Risk Management Руководство по управлению рисками безопасности / ОиПОИБ Л-01
 LOCATION:Таганрог\, корпус Д / Д-230
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Князева Маргарита Владимировна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22feed497b-1a87-428d-9164-3942baa904f4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22feed497b-1a87-428d-9164-3942baa904f4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T13:45:00.000Z%22%7D\n
