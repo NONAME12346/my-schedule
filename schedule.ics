@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:0871a319-6be7-4c8c-af4c-9f04a99e9e9e
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260312T095000
 DTEND;TZID=Europe/Moscow:20260312T112500
 SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лабораторное занятие 4 / БПДиТЗД-1 ЛБ-04
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:3e5e490a-e65d-427d-b0d7-74a8f524d3fb
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260311T095000
 DTEND;TZID=Europe/Moscow:20260311T112500
 SUMMARY:Низкоуровневое программирование (10.05.03) / Лабораторное занятие 2 / НП:БИТ:34-34-16 ЛБ-01
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:44adeb84-05a9-4ce1-9c02-17e960f28ae1
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260313T155000
 DTEND;TZID=Europe/Moscow:20260313T172500
 SUMMARY:Дисциплины по физической культуре и спорту / Дисциплины по физической культуре и спорту / ДпФКиС-2 П-07
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:482f3d86-d3de-4e23-b454-29ff5a84b9c9
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260312T115500
 DTEND;TZID=Europe/Moscow:20260312T133000
 SUMMARY:Защита информации от утечки по техническим каналам (6 семестр) / Лабораторная работа № 5 / ЗИУпТК ЛБ-04
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:6b721f92-194d-4d14-ae0c-b6b6d29a301b
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260313T155000
 DTEND;TZID=Europe/Moscow:20260313T172500
 SUMMARY:Дисциплины по физической культуре и спорту Пятница 15.50 весенний семестр / Практическое занятие / Дисциплины по физической культуре и спорту Пятница 15.50 П-01
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:72e33ac6-086d-40e7-afea-8a114c937603
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260310T095000
 DTEND;TZID=Europe/Moscow:20260310T112500
 SUMMARY:Безопасность операционных систем / Разграничение доступа в ОС семейства Microsoft Windows\, ч.1 / БОС Л-01
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:9828838b-8c9d-4de3-a405-a5858ac77c5e
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260311T080000
 DTEND;TZID=Europe/Moscow:20260311T093500
 SUMMARY:Низкоуровневое программирование (10.05.03) / Практическое занятие 4 / НП:БИТ:34-34-16 П-01
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:cf4828dd-a542-47da-8aa4-4dab2886e699
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260311T134500
 DTEND;TZID=Europe/Moscow:20260311T152000
 SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лекционное занятие 3 / БПДиТЗД-1 Л-01
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 UID:e6f59220-91c1-4c22-b5ae-96fef91d0ab7
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260310T115500
 DTEND;TZID=Europe/Moscow:20260310T133000
 SUMMARY:Низкоуровневое программирование (10.05.03) / Лекционное занятие 5 / НП:БИТ:34-34-16 Л-01
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:f3090e4d-508f-4d66-a0a7-d87948aaff98
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260313T191500
 DTEND;TZID=Europe/Moscow:20260313T205000
 SUMMARY:Технологии обнаружения атак - 1 / Тема 5. Признаки атак. Обнаружение следов атак. / ТОА-1 Л-01
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 UID:feed497b-1a87-428d-9164-3942baa904f4
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Europe/Moscow:20260308T220231
+DTSTAMP;TZID=Europe/Moscow:20260308T221811
 DTSTART;TZID=Europe/Moscow:20260310T134500
 DTEND;TZID=Europe/Moscow:20260310T152000
 SUMMARY:Организационное и правовое обеспечение информационной безопасности / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛЕНИЯ РИСКАМИ ИБ. Microsoft Risk Management Руководство по управлению рисками безопасности / ОиПОИБ Л-01
