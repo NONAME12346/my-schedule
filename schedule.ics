@@ -1,148 +1,571 @@
 BEGIN:VCALENDAR
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.0//EN
 VERSION:2.0
-PRODID:-//Custis/Modeus//Schedule Calendar App//RU
-METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:0871a319-6be7-4c8c-af4c-9f04a99e9e9e
+DESCRIPTION:Практическое занятие 4\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND20260306T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260306T125000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260312T065000Z
-DTEND:20260312T082500Z
-SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лабораторное занятие 4 / БПДиТЗД-1 ЛБ-04
-LOCATION:Таганрог\, корпус И / И-417
-DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Ельчанинова Наталья Борисовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220871a319-6be7-4c8c-af4c-9f04a99e9e9e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220871a319-6be7-4c8c-af4c-9f04a99e9e9e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T09:50:00.000Z%22%7D\n
-CATEGORIES:Лабораторное занятие
-CATEGORIES:БПДиТЗД-1
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:a6ac1a1c-a24c-45fc-9883-53202e85f0f5
 END:VEVENT
 BEGIN:VEVENT
-UID:3e5e490a-e65d-427d-b0d7-74a8f524d3fb
+DESCRIPTION:Практическое занятие 8\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND20260403T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260403T125000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260311T065000Z
-DTEND:20260311T082500Z
-SUMMARY:Низкоуровневое программирование (10.05.03) / Лабораторное занятие 2 / НП:БИТ:34-34-16 ЛБ-01
-LOCATION:Таганрог\, корпус И / И-417
-DESCRIPTION:Лабораторное занятие / Учебно-исследовательская лабораторная работа\n\nПреподаватель: Романенко Кирилл Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%223e5e490a-e65d-427d-b0d7-74a8f524d3fb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%223e5e490a-e65d-427d-b0d7-74a8f524d3fb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T09:50:00.000Z%22%7D\n
-CATEGORIES:Лабораторное занятие
-CATEGORIES:НП
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:4dfc2ec0-ac48-4b16-b643-6a0de1d80161
 END:VEVENT
 BEGIN:VEVENT
-UID:44adeb84-05a9-4ce1-9c02-17e960f28ae1
+DESCRIPTION:Лабораторное занятие 6\nАудитория: 
+ И-417\nПреподаватели: Ельчанинова Наталья 
+ Борисовна
+DTEND20260312T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260312T065000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260313T125000Z
-DTEND:20260313T142500Z
-SUMMARY:Дисциплины по физической культуре и спорту / Дисциплины по физической культуре и спорту / ДпФКиС-2 П-07
-LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 2\, Общежитие № 5 / Таганрог\, Тренажерный зал № 5\, Таганрог\, корпус А / Таганрог\, Спортзал № 1\, Таганрог\, корпус Д / Таганрог\, Спортзал № 3
-DESCRIPTION:Практическое занятие / Иное\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2244adeb84-05a9-4ce1-9c02-17e960f28ae1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2244adeb84-05a9-4ce1-9c02-17e960f28ae1%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:Дисциплины ФКиС
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 4
+UID:0569ef9d-98af-4cea-a09f-3043199883ce
 END:VEVENT
 BEGIN:VEVENT
-UID:482f3d86-d3de-4e23-b454-29ff5a84b9c9
+DESCRIPTION:Лекционное занятие 13\nАудитория: Г-
+ 215\nПреподаватели: Алексеев Дмитрий Миха
+ йлович
+DTEND20260317T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260317T085500Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260312T085500Z
-DTEND:20260312T103000Z
-SUMMARY:Защита информации от утечки по техническим каналам (6 семестр) / Лабораторная работа № 5 / ЗИУпТК ЛБ-04
-LOCATION:Таганрог\, корпус И / И-233
-DESCRIPTION:Лабораторное занятие / Репродуктивная лабораторная работа\n\nПреподаватель: Аксёнова Елена Викторовна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22482f3d86-d3de-4e23-b454-29ff5a84b9c9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22482f3d86-d3de-4e23-b454-29ff5a84b9c9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-12T11:55:00.000Z%22%7D\n
-CATEGORIES:Лабораторное занятие
-CATEGORIES:ЗИУпТК
+SUMMARY:НП / Лекционное занятие 6
+UID:03e0af6c-8414-4f9b-9b81-5a4d4e8f922b
 END:VEVENT
 BEGIN:VEVENT
-UID:6b721f92-194d-4d14-ae0c-b6b6d29a301b
-SEQUENCE:1
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260313T125000Z
-DTEND:20260313T142500Z
-SUMMARY:Дисциплины по физической культуре и спорту Пятница 15.50 весенний семестр / Практическое занятие / Дисциплины по физической культуре и спорту Пятница 15.50 П-01
-LOCATION:Таганрог\, корпус А / Таганрог\, Спортзал № 1
-DESCRIPTION:Практическое занятие\n\nПреподаватель: Дебердеев Мурат Петрович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%226b721f92-194d-4d14-ae0c-b6b6d29a301b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%226b721f92-194d-4d14-ae0c-b6b6d29a301b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T15:50:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:Дисциплины по физической культуре и спорту Пятница 15.50
+DESCRIPTION:Практическое занятие 12\nАудитория:
+  И-425\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND20260320T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260320T104500Z
+SEQUENCE:0
+SUMMARY:НП / Практическое занятие 5
+UID:2511931f-e742-4648-bfd2-5b69f7c6c922
 END:VEVENT
 BEGIN:VEVENT
-UID:72e33ac6-086d-40e7-afea-8a114c937603
+DESCRIPTION:Лабораторное занятие 5\nАудитория: 
+ И-419\nПреподаватели: Быстрая Злата Алекса
+ ндровна
+DTEND20260318T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260318T065000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260310T065000Z
-DTEND:20260310T082500Z
-SUMMARY:Безопасность операционных систем / Разграничение доступа в ОС семейства Microsoft Windows\, ч.1 / БОС Л-01
-LOCATION:Таганрог\, корпус И / И-241
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Пескова Ольга Юрьевна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2272e33ac6-086d-40e7-afea-8a114c937603%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T09:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2272e33ac6-086d-40e7-afea-8a114c937603%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T09:50:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:БОС
+SUMMARY:ТОА-1 / Лабораторная работа 1. Обнаруж
+ ение вторжений стандартными средствами 
+ операционных систем семейств Windows и Linux. 
+ Ч.2
+UID:39dd4cdc-1acf-46ca-a954-3e32f9fd44c8
 END:VEVENT
 BEGIN:VEVENT
-UID:9828838b-8c9d-4de3-a405-a5858ac77c5e
+DESCRIPTION:Практическое занятие 15\nАудитория:
+  Военный учебный центр
+DTEND20260302T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T125000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260311T050000Z
-DTEND:20260311T063500Z
-SUMMARY:Низкоуровневое программирование (10.05.03) / Практическое занятие 4 / НП:БИТ:34-34-16 П-01
-LOCATION:Таганрог\, корпус И / И-417
-DESCRIPTION:Практическое занятие / Семинар\n\nПреподаватель: Романенко Кирилл Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%229828838b-8c9d-4de3-a405-a5858ac77c5e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%229828838b-8c9d-4de3-a405-a5858ac77c5e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T08:00:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:НП
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:8574a7d1-5e66-4418-9e70-e5c5e9a7abcc
 END:VEVENT
 BEGIN:VEVENT
-UID:cf4828dd-a542-47da-8aa4-4dab2886e699
+DESCRIPTION:Практическое занятие 13\nАудитория:
+  Военный учебный центр
+DTEND20260302T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T085500Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260311T104500Z
-DTEND:20260311T122000Z
-SUMMARY:Безопасность персональных данных и технологии защищённого документооборота - 1 / Лекционное занятие 3 / БПДиТЗД-1 Л-01
-LOCATION:Таганрог\, корпус И / И-409
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Басан Александр Сергеевич\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cf4828dd-a542-47da-8aa4-4dab2886e699%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22cf4828dd-a542-47da-8aa4-4dab2886e699%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-11T13:45:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:БПДиТЗД-1
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:dac853db-efc8-4d40-8cbc-4f604e7ca9ad
 END:VEVENT
 BEGIN:VEVENT
-UID:e6f59220-91c1-4c22-b5ae-96fef91d0ab7
+DESCRIPTION:Практическое занятие 6\nАудитория: 
+ Г-139\nПреподаватели: Князева Маргарита Вл
+ адимировна
+DTEND20260303T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260303T125000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260310T085500Z
-DTEND:20260310T103000Z
-SUMMARY:Низкоуровневое программирование (10.05.03) / Лекционное занятие 5 / НП:БИТ:34-34-16 Л-01
-LOCATION:Таганрог\, корпус Г / Г-215
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Алексеев Дмитрий Михайлович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e6f59220-91c1-4c22-b5ae-96fef91d0ab7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T11:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e6f59220-91c1-4c22-b5ae-96fef91d0ab7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T11:55:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:НП
+SUMMARY:ОиПОИБ / Проведение контрольной рабо
+ ты № 1 (тестирование)
+UID:9fa85d64-3690-4799-ac44-74ed8795d9bb
 END:VEVENT
 BEGIN:VEVENT
-UID:f3090e4d-508f-4d66-a0a7-d87948aaff98
+DESCRIPTION:Практическое занятие 6\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND20260320T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260320T125000Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260313T161500Z
-DTEND:20260313T175000Z
-SUMMARY:Технологии обнаружения атак - 1 / Тема 5. Признаки атак. Обнаружение следов атак. / ТОА-1 Л-01
-LOCATION:Online
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Жилин Сергей Викторович\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22f3090e4d-508f-4d66-a0a7-d87948aaff98%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T19:15:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22f3090e4d-508f-4d66-a0a7-d87948aaff98%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-13T19:15:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:ТОА-1
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:66ad9a6a-1874-4174-9199-ba64fc2baef8
 END:VEVENT
 BEGIN:VEVENT
-UID:feed497b-1a87-428d-9164-3942baa904f4
+DESCRIPTION:Лекционное занятие 5\nАудитория: Д-2
+ 30\nПреподаватели: Князева Маргарита Влад
+ имировна
+DTEND20260303T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260303T104500Z
 SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP:20260308T201326Z
-DTSTART:20260310T104500Z
-DTEND:20260310T122000Z
-SUMMARY:Организационное и правовое обеспечение информационной безопасности / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛЕНИЯ РИСКАМИ ИБ. Microsoft Risk Management Руководство по управлению рисками безопасности / ОиПОИБ Л-01
-LOCATION:Таганрог\, корпус Д / Д-230
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Князева Маргарита Владимировна\n\nПосмотреть в Моем расписании: https://sfedu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22feed497b-1a87-428d-9164-3942baa904f4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://sfedu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22feed497b-1a87-428d-9164-3942baa904f4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-03-10T13:45:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:ОиПОИБ
+SUMMARY:ОиПОИБ / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛ
+ ЕНИЯ РИСКАМИ ИБ.
+UID:06b584ee-74c3-4e22-8280-c8ef939e4131
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 18\nАудитория:
+  Военный учебный центр
+DTEND20260316T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T085500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:4603b99a-6395-49cc-a00e-034a04d2a2a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 5\nАудитория: 
+ И-417\nПреподаватели: Ельчанинова Наталья 
+ Борисовна
+DTEND20260305T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260305T125000Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 3
+UID:24c23647-9d10-4c49-acb6-44a00e038abc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 10\nАудитория:
+  И-417\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND20260311T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260311T065000Z
+SEQUENCE:0
+SUMMARY:НП / Лабораторное занятие 2
+UID:554762d8-cbd5-41fd-88f7-0612ba46730d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 5\nАудитория: 
+ Таганрог\, Спортзал № 2
+DTEND20260313T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260313T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:c09a5d8c-56a9-4948-ad4f-184e87603053
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 16\nАудитория:
+  Военный учебный центр
+DTEND20260316T063500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T050000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:33356995-1c31-4839-871f-fda8d7cd492c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 10\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND20260312T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260312T085500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 5
+UID:624680f0-f0a9-43ca-84fd-650775a3381b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 3\nАудитория: 
+ И-417\nПреподаватели: Быстрая Злата Алекса
+ ндровна
+DTEND20260307T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260307T065000Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Лабораторная работа 1. Обнаруж
+ ение вторжений стандартными средствами 
+ операционных систем семейств Windows и Linux. 
+ Ч.1
+UID:7e1cd5ea-e780-446d-ab16-faf42a920e59
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 8\nАудитория: Д-2
+ 30\nПреподаватели: Князева Маргарита Влад
+ имировна
+DTEND20260317T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260317T104500Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / ОЦЕНКА РИСКОВ ИНФОРМАЦИОННО
+ Й БЕЗОПАСНОСТИ: Идентификация требовани
+ й\, анализ угроз и уязвимостей. Система о
+ ценки общеизвестных уязвимостей: метрик
+ и CVSS 3.0 и CVSS 4.0
+UID:fed32135-cb25-43f6-a04b-55f3eed8b9a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 3
+DTEND20260321T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260321T104500Z
+SEQUENCE:0
+SUMMARY:ТПроект-2:100503 / Практическое занятие 3
+UID:6d37a958-0b69-4db5-a831-0e2424d5bac6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 5\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND20260313T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260313T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:80d1a2e0-58d4-453f-8859-06eec6ae0385
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 4\nАудитория: 
+ Таганрог\, Спортзал № 1
+DTEND20260306T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260306T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:fdfa5287-eeb6-45c4-8c02-1be42e5f6349
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 4\nАудитория: И-2
+ 41\nПреподаватели: Пескова Ольга Юрьевна
+DTEND20260307T063500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260307T050000Z
+SEQUENCE:0
+SUMMARY:БОС / Аутентификация в ОС семейства Mi
+ crosoft Windows\, ч.2
+UID:0fd1c1ef-a262-4a0e-9134-02127d7753f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 5\nАудитория: И-2
+ 41\nПреподаватели: Пескова Ольга Юрьевна
+DTEND20260310T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260310T065000Z
+SEQUENCE:0
+SUMMARY:БОС / Разграничение доступа в ОС семе
+ йства Microsoft Windows\, ч.1
+UID:0845059e-fadd-4e66-975f-3214ef1d6c06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 7\nАудитория: 
+ И-425\nПреподаватели: Романенко Кирилл Сер
+ геевич
+DTEND20260306T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260306T104500Z
+SEQUENCE:0
+SUMMARY:НП / Практическое занятие 3
+UID:fa92c246-b1de-49e1-aacc-123c2b12688f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 12\nАудитория:
+  Военный учебный центр
+DTEND20260302T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T065000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:a3670ee2-a2bc-4a51-82ba-c815ef27da80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 2
+DTEND20260304T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260304T104500Z
+SEQUENCE:0
+SUMMARY:ТПроект-2:100503 / Практическое занятие 2
+UID:c1159b8c-4c94-4d61-a18b-6d01221b9198
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 9\nАудитория: 
+ Г-139\nПреподаватели: Князева Маргарита Вл
+ адимировна
+DTEND20260317T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260317T125000Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / Microsoft ThreatModelling Tool.
+UID:1e403d74-6527-4121-a583-ff66263c7095
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 8\nАудитория: 
+ И-417\nПреподаватели: Ельчанинова Наталья 
+ Борисовна
+DTEND20260317T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260317T065000Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 5
+UID:234a60b5-5384-43cd-981f-d686e09ce8ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 8\nАудитория: Г-2
+ 15\nПреподаватели: Алексеев Дмитрий Михай
+ лович
+DTEND20260303T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260303T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лекционное занятие 4
+UID:ee3c90f2-6c45-4fba-b8bb-47f8f5e1d62f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 9\nАудитория: 
+ И-417\nПреподаватели: Романенко Кирилл Сер
+ геевич
+DTEND20260311T063500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260311T050000Z
+SEQUENCE:0
+SUMMARY:НП / Практическое занятие 4
+UID:1a28d72d-f9be-4023-9c92-42c3876dde9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 7\nАудитория: И-2
+ 41\nПреподаватели: Помазанов Александр Ва
+ сильевич
+DTEND20260316T161000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Технические каналы утечки р
+ ечевой информации.
+UID:b99acebb-1b0f-447f-8e48-85f0d8815890
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 14\nАудитория:
+  Военный учебный центр
+DTEND20260302T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T104500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:5bed0de3-816d-4791-abc1-ad91560e3ebf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 8\nАудитория: 
+ И-233\nПреподаватели: Аксёнова Елена Викто
+ ровна
+DTEND20260305T161000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260305T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 4
+UID:96abfaa0-3018-4620-ad02-feae6967a1ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 7\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND20260327T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260327T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:4ae9c69d-3c7a-4ab5-b635-415b8abd1360
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 17\nАудитория:
+  Военный учебный центр
+DTEND20260316T082500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T065000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:3867ab50-932a-411d-86eb-d698026b58e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 19\nАудитория:
+  Военный учебный центр
+DTEND20260316T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T104500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:08891019-7b08-45c2-a456-30d81af554e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 5\nАудитория: И-2
+ 41\nПреподаватели: Помазанов Александр Ва
+ сильевич
+DTEND20260302T161000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Электромагнитные каналы уте
+ чки информации ТСПИ.
+UID:e064ca4e-4766-470d-bc33-3e83d6c722c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 10\nПреподавате
+ ли: Жилин Сергей Викторович
+DTEND20260320T175000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260320T161500Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Тема 6. Методы обнаружения атак
+ . Контроль изменений каталогов и файлов. 
+ Анализ журналов регистрации. Анализ сет
+ евого трафика. Анализ уведомлений.
+UID:5980d8d8-ec13-437e-abbe-cffd1ac612bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 7\nАудитория: И-4
+ 09\nПреподаватели: Басан Александр Сергее
+ вич
+DTEND20260311T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260311T104500Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лекционное занятие 3
+UID:af764f7a-c307-460c-ad29-eda05b04745a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 12\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND20260319T161000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260319T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 6
+UID:6a90e836-6935-4d56-a535-f0de93683e26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 7\nАудитория: И-2
+ 41\nПреподаватели: Пескова Ольга Юрьевна
+DTEND20260321T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260321T125000Z
+SEQUENCE:0
+SUMMARY:БОС / Разграничение доступа в ОС семе
+ йства Microsoft Windows\, ч.2
+UID:8d42e37d-74c5-4143-8bd3-0d8f2e879e71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 11\nАудитория: Г-
+ 215\nПреподаватели: Алексеев Дмитрий Миха
+ йлович
+DTEND20260310T103000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260310T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лекционное занятие 5
+UID:74a43e7b-d5d1-41d8-b1d3-464ab6ef3819
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 20\nАудитория:
+  Военный учебный центр
+DTEND20260316T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260316T125000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:11b96ace-19f9-4e62-83b2-68ef7b766d07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 6\nАудитория: 
+ Таганрог\, Спортзал № 2
+DTEND20260320T142500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260320T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:b5d39157-bb6f-4e69-9578-58f1b80638e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 6\nПреподавател
+ и: Жилин Сергей Викторович
+DTEND20260306T175000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260306T161500Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Тема 4. Признаки атак. Источник
+ и информации об атаках
+UID:9a38f329-7fd4-46ef-ac64-c44d80197aae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 11\nАудитория:
+  Военный учебный центр
+DTEND20260302T063500Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260302T050000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:ec82fe2c-b098-43a5-9892-e78a0526db78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 8\nПреподавател
+ и: Жилин Сергей Викторович
+DTEND20260313T175000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260313T161500Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Тема 5. Признаки атак. Обнаруже
+ ние следов атак.
+UID:6d619705-9fdd-45a1-901e-80eb09dae0e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 7\nАудитория: Д-2
+ 30\nПреподаватели: Князева Маргарита Влад
+ имировна
+DTEND20260310T122000Z
+DTSTAMP20260308T201641ZZ
+DTSTART20260310T104500Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛ
+ ЕНИЯ РИСКАМИ ИБ. Microsoft Risk Management Руководст
+ во по управлению рисками безопасности
+UID:f828b96c-0ef9-4ec6-ac8e-5bc55b3b337a
 END:VEVENT
 END:VCALENDAR
