@@ -2,566 +2,728 @@ BEGIN:VCALENDAR
 PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 4\nАудитория: 
- Таганрог\, Спортзал № 1\nПреподаватели: Д
- ебердеев Мурат Петрович
-DTEND:20260306T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260306T125000Z
+DESCRIPTION:Лекционное занятие 14\nПреподавате
+ ли: Жилин Сергей Викторович
+DTEND:20260403T175000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260403T161500Z
 SEQUENCE:0
-SUMMARY:Дисциплины по физической культуре и 
- спорту Пятница 15.50 / Практическое заняти
- е
-UID:ed4e07a6-22bb-43c4-9549-146cf8ddf9b7
+SUMMARY:ТОА-1 / Тема 8. Методы обнаружения атак
+ . Обнаружение SQL инъекций и XSS атак.
+UID:dbe68943-931e-423d-b5a6-0e29a4f8e441
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Практическое занятие 8\nАудитория: 
  Таганрог\, Спортзал № 1\nПреподаватели: Д
  ебердеев Мурат Петрович
 DTEND:20260403T142500Z
-DTSTAMP:20260308T202256ZZ
+DTSTAMP:20260402T065805ZZ
 DTSTART:20260403T125000Z
 SEQUENCE:0
 SUMMARY:Дисциплины по физической культуре и 
  спорту Пятница 15.50 / Практическое заняти
  е
-UID:0882dc5f-d321-47f6-bbb9-ae4ee3ac1dc6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 6\nАудитория: 
- И-417\nПреподаватели: Ельчанинова Наталья 
- Борисовна
-DTEND:20260312T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260312T065000Z
-SEQUENCE:0
-SUMMARY:БПДиТЗД-1 / Лабораторное занятие 4
-UID:19fd661a-ebe5-479f-9917-56a4c93e2796
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 13\nАудитория: Г-
- 215\nПреподаватели: Алексеев Дмитрий Миха
- йлович
-DTEND:20260317T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260317T085500Z
-SEQUENCE:0
-SUMMARY:НП / Лекционное занятие 6
-UID:97e6044b-7de2-45e2-8f19-3532c2822e62
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 12\nАудитория:
-  И-425\nПреподаватели: Романенко Кирилл Се
- ргеевич
-DTEND:20260320T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260320T104500Z
-SEQUENCE:0
-SUMMARY:НП / Практическое занятие 5
-UID:7627e293-9c2c-46ae-b718-ae829d18ca86
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 5\nАудитория: 
- И-419\nПреподаватели: Быстрая Злата Алекса
- ндровна
-DTEND:20260318T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260318T065000Z
-SEQUENCE:0
-SUMMARY:ТОА-1 / Лабораторная работа 1. Обнаруж
- ение вторжений стандартными средствами 
- операционных систем семейств Windows и Linux. 
- Ч.2
-UID:4c9a8ac3-c77f-437a-8277-d78a32c0ddc7
+UID:98e812e0-6b6d-45e6-83a6-4301f7ac77b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Практическое занятие 15\nАудитория:
+  Г-139\nПреподаватели: Князева Маргарита В
+ ладимировна
+DTEND:20260414T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260414T125000Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / Common Weakness Scoring System - CWSS. Метрик
+ и для оценки рисков слабых мест ПО
+UID:6919e2fa-6ae7-4078-b0c6-9a41afad6df3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 28\nАудитория:
   Военный учебный центр
-DTEND:20260302T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T125000Z
+DTEND:20260330T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T085500Z
 SEQUENCE:0
 SUMMARY:Военная подготовка / Военная подгото
  вка
-UID:3afc4952-f7f1-4ed1-9280-5d3f0e87a544
+UID:b987c1ee-99c0-43bd-af09-f8a34149a8fd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 13\nАудитория:
-  Военный учебный центр
-DTEND:20260302T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T085500Z
+DESCRIPTION:Лабораторное занятие 7\nАудитория: 
+ И-419\nПреподаватели: Быстрая Злата Алекса
+ ндровна
+DTEND:20260328T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260328T104500Z
 SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:8a20f4c6-3eb4-4bd5-b3d0-cbb82ff50b76
+SUMMARY:ТОА-1 / Лабораторная работа 2. Анализа
+ торы защищённости.Ч.1
+UID:a89e1d85-d476-47ce-8a14-d71a214a80af
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 6\nАудитория: 
- Г-139\nПреподаватели: Князева Маргарита Вл
- адимировна
-DTEND:20260303T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260303T125000Z
-SEQUENCE:0
-SUMMARY:ОиПОИБ / Проведение контрольной рабо
- ты № 1 (тестирование)
-UID:59b96a86-d5e9-47af-90a9-b77b9989ed70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 6\nАудитория: 
- Таганрог\, Спортзал № 1\nПреподаватели: Д
- ебердеев Мурат Петрович
-DTEND:20260320T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260320T125000Z
-SEQUENCE:0
-SUMMARY:Дисциплины по физической культуре и 
- спорту Пятница 15.50 / Практическое заняти
- е
-UID:87d50960-8365-4655-b8a5-e15c087d7318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 5\nАудитория: Д-2
- 30\nПреподаватели: Князева Маргарита Влад
- имировна
-DTEND:20260303T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260303T104500Z
-SEQUENCE:0
-SUMMARY:ОиПОИБ / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛ
- ЕНИЯ РИСКАМИ ИБ.
-UID:dc923d75-9dbe-4eaa-971c-978dc8fd2faf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 18\nАудитория:
-  Военный учебный центр
-DTEND:20260316T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T085500Z
-SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:4a101093-5bc0-4290-8343-d8cdaf55d9f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 5\nАудитория: 
- И-417\nПреподаватели: Ельчанинова Наталья 
- Борисовна
-DTEND:20260305T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260305T125000Z
-SEQUENCE:0
-SUMMARY:БПДиТЗД-1 / Лабораторное занятие 3
-UID:e47fa2fd-52b7-404f-b9ce-30237167fe91
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 10\nАудитория:
-  И-417\nПреподаватели: Романенко Кирилл Се
- ргеевич
-DTEND:20260311T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260311T065000Z
-SEQUENCE:0
-SUMMARY:НП / Лабораторное занятие 2
-UID:3d82d0e6-63bb-4791-a303-54100520e82c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 5\nАудитория: 
- Таганрог\, Спортзал № 2
-DTEND:20260313T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260313T125000Z
+DESCRIPTION:Практическое занятие 8\nАудитория: 
+ Таганрог\, Тренажерный зал № 5
+DTEND:20260403T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260403T125000Z
 SEQUENCE:0
 SUMMARY:Дисциплины ФКиС / Дисциплины по физи
  ческой культуре и спорту
-UID:f2aad644-3c48-4369-92af-0b2eb4e67c51
+UID:10c2db4b-4008-4195-a2e7-133eebf71d26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 16\nАудитория:
-  Военный учебный центр
-DTEND:20260316T063500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T050000Z
+DESCRIPTION:Лекционное занятие 15\nАудитория: И-
+ 241\nПреподаватели: Помазанов Александр В
+ асильевич
+DTEND:20260413T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T143500Z
 SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:20daac60-946d-47b8-acc0-5f819a806c0e
+SUMMARY:ЗИУпТК / Комплексы измерения ПЭМИН.
+UID:f22c6ec3-61dd-46d0-b848-769b90687997
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 10\nАудитория:
-  И-233\nПреподаватели: Аксёнова Елена Викт
- оровна
-DTEND:20260312T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260312T085500Z
-SEQUENCE:0
-SUMMARY:ЗИУпТК / Лабораторная работа № 5
-UID:bbe640d3-3990-4c62-afb4-887086d66a38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 3\nАудитория: 
+DESCRIPTION:Лабораторное занятие 9\nАудитория: 
  И-417\nПреподаватели: Быстрая Злата Алекса
  ндровна
-DTEND:20260307T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260307T065000Z
+DTEND:20260401T175000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260401T143500Z
 SEQUENCE:0
-SUMMARY:ТОА-1 / Лабораторная работа 1. Обнаруж
- ение вторжений стандартными средствами 
- операционных систем семейств Windows и Linux. 
- Ч.1
-UID:41a4a729-7e4e-4562-b315-cc9d3858219d
+SUMMARY:ТОА-1 / Лабораторная работа 2. Анализа
+ торы защищённости.Ч.2
+UID:ef9069eb-c215-4419-afe9-728aa2602e3e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 8\nАудитория: Д-2
- 30\nПреподаватели: Князева Маргарита Влад
- имировна
-DTEND:20260317T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260317T104500Z
+DESCRIPTION:Практическое занятие 27\nАудитория:
+  Военный учебный центр
+DTEND:20260330T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T065000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:7489d43a-7e5a-4e2b-8502-3e19ff53dea7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 13\nАудитория: И-
+ 409\nПреподаватели: Басан Александр Серге
+ евич
+DTEND:20260408T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260408T143500Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лекционное занятие 5
+UID:4ea6c2a5-48b5-4d88-b6d8-2b3a2f7c1a1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 11\nАудитория: Д-
+ 230\nПреподаватели: Князева Маргарита Вла
+ димировна
+DTEND:20260331T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260331T104500Z
 SEQUENCE:0
 SUMMARY:ОиПОИБ / ОЦЕНКА РИСКОВ ИНФОРМАЦИОННО
- Й БЕЗОПАСНОСТИ: Идентификация требовани
- й\, анализ угроз и уязвимостей. Система о
- ценки общеизвестных уязвимостей: метрик
- и CVSS 3.0 и CVSS 4.0
-UID:4bd8438e-3d2b-482d-bf00-41e0e92450a4
+ Й БЕЗОПАСНОСТИ: Перечень общеизвестных 
+ слабых мест. Common Weakness Enumeration. CWE/SANS Top 25 Наи
+ болееОпасныхОшибокПО (Most Dangerous Software Errors)
+UID:aadd3b8f-9231-465a-a7f7-d8932f420fdc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 3
-DTEND:20260321T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260321T104500Z
+DESCRIPTION:Практическое занятие 22\nАудитория:
+  И-425\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND:20260417T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260417T104500Z
 SEQUENCE:0
-SUMMARY:ТПроект-2:100503 / Практическое занятие 3
-UID:27d07baa-0b66-4f11-869b-8dcc8fc26af8
+SUMMARY:НП / Практическое занятие 9
+UID:121315ce-d2db-4e17-8901-30f629e3524c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 5\nАудитория: 
- Таганрог\, Спортзал № 1\nПреподаватели: Д
- ебердеев Мурат Петрович
-DTEND:20260313T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260313T125000Z
+DESCRIPTION:Лекционное занятие 18\nПреподавате
+ ли: Жилин Сергей Викторович
+DTEND:20260417T175000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260417T161500Z
 SEQUENCE:0
-SUMMARY:Дисциплины по физической культуре и 
- спорту Пятница 15.50 / Практическое заняти
- е
-UID:a0f522be-8a46-448b-8e5e-f719e431df7d
+SUMMARY:ТОА-1 / Тема 10. База данных CVE. Назначен
+ ие и архитектура CVE. Сценарии атак (CAPEC и т
+ .д.)
+UID:34e9a0ff-c60d-47d1-9574-6830e950a460
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 4\nАудитория: 
- Таганрог\, Спортзал № 1
-DTEND:20260306T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260306T125000Z
+DESCRIPTION:Практическое занятие 36\nАудитория:
+  Военный учебный центр
+DTEND:20260413T063500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T050000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:a8333971-bf70-4d0f-86c0-f2d0d289d623
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 14\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND:20260326T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260326T085500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 7
+UID:bd65b390-f765-4ad1-bc2a-81a6655bdaf2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 40\nАудитория:
+  Военный учебный центр
+DTEND:20260413T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T125000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:d7b882d2-ee2f-4d7c-a610-2861d099ffc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 23\nАудитория: Г-
+ 215\nПреподаватели: Алексеев Дмитрий Миха
+ йлович
+DTEND:20260414T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260414T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лекционное занятие 10
+UID:034d436f-9b57-43e6-bc6e-87b17bc59590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 12\nАудитория: И-
+ 241\nПреподаватели: Пескова Ольга Юрьевна
+DTEND:20260407T063500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260407T050000Z
+SEQUENCE:0
+SUMMARY:БОС / Службы сертификации в ОС семейс
+ тва Microsoft Windows
+UID:fe52f369-5b75-4652-ac4e-0d966a71b6d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 30\nАудитория:
+  Военный учебный центр
+DTEND:20260330T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T125000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:ef53b2b7-459c-4cda-8bce-742078c6855f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 35\nАудитория:
+  Военный учебный центр
+DTEND:20260406T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T125000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:c7365af4-c924-4ba9-b0ee-b64f3bd07bce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 6\nАудитория: 
+ И-425\nПреподаватели: Пескова Ольга Юрьевн
+ а
+DTEND:20260401T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260401T050000Z
+SEQUENCE:0
+SUMMARY:БОС / Лабораторная работа 1. Работа с 
+ учетными записями
+UID:d72f4a89-a3e7-47e9-9fae-8d71a1ef6ffe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 11\nАудитория:
+  И-425\nПреподаватели: Пескова Ольга Юрьев
+ на
+DTEND:20260416T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260416T050000Z
+SEQUENCE:0
+SUMMARY:БОС / Лабораторная работа 3. Обеспече
+ ние безопасности ресурсов с помощью раз
+ решений NTFS
+UID:354fd692-d23b-41f4-bb39-536a46cd68e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 16\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND:20260402T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260402T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 8
+UID:9912b354-9a33-4b1f-bb08-d9229b371052
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 14\nАудитория: И-
+ 241\nПреподаватели: Пескова Ольга Юрьевна
+DTEND:20260418T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260418T125000Z
+SEQUENCE:0
+SUMMARY:БОС / Защита сетевого взаимодействия
+ .
+UID:7dcc90b7-61d0-4ef0-a454-19de62ed501d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 34\nАудитория:
+  Военный учебный центр
+DTEND:20260406T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T104500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:054b315d-dafc-47ed-a4cd-2696edb566fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 8\nАудитория: 
+ И-425\nПреподаватели: Пескова Ольга Юрьевн
+ а
+DTEND:20260408T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260408T050000Z
+SEQUENCE:0
+SUMMARY:БОС / Лабораторная работа 2. Настройк
+ а параметров безопасности с помощью осн
+ асток
+UID:90726584-5010-4c60-85d4-b60f4d417529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 29\nАудитория:
+  Военный учебный центр
+DTEND:20260330T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T104500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:ee90443e-e328-46ea-a2f9-6451522b6625
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 4
+DTEND:20260404T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260404T104500Z
+SEQUENCE:0
+SUMMARY:ТПроект-2:100503 / Практическое занятие 4
+UID:8217a59e-76c5-40e5-ab4c-24b2bc297436
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 11\nАудитория:
+  И-417\nПреподаватели: Ельчанинова Наталья
+  Борисовна
+DTEND:20260331T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260331T065000Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 7
+UID:dcd369d0-c474-413b-8544-1a0d5e005fbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 17\nАудитория:
+  И-425\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND:20260403T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260403T104500Z
+SEQUENCE:0
+SUMMARY:НП / Практическое занятие 7
+UID:2c72e025-ff8a-40a2-b77d-aea6174e1e74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 13\nАудитория: Д-
+ 230\nПреподаватели: Князева Маргарита Вла
+ димировна
+DTEND:20260407T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260407T104500Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / ОЦЕНКА РИСКОВ ИНФОРМАЦИОННО
+ Й БЕЗОПАСНОСТИ: Перечень общеизвестных 
+ слабых мест и метрическая система их оце
+ нки. Common WeaknessScoring System - CWSS. Метрики для оце
+ нки рисков слабых мест ПО
+UID:40733412-941e-42bc-b42c-28dc0baf0f4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 14\nАудитория: Д-
+ 230\nПреподаватели: Князева Маргарита Вла
+ димировна
+DTEND:20260414T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260414T104500Z
+SEQUENCE:0
+SUMMARY:ОиПОИБ / ОПИСАНИЕ УГРОЗ ИНФОРМАЦИОНН
+ ОЙ БЕЗОПАСНОСТИ. Структурированный язык
+  для описания угроз информационной безо
+ пасности. StructuredThreat Information eXpression — STIX
+UID:c07e317d-b012-4cb8-b1ae-4dae9ae10718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 21\nАудитория: Г-
+ 215\nПреподаватели: Алексеев Дмитрий Миха
+ йлович
+DTEND:20260407T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260407T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лекционное занятие 9
+UID:91dfde30-2ef7-469f-9f78-b2d3ab30690c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 10\nАудитория: И-
+ 241\nПреподаватели: Пескова Ольга Юрьевна
+DTEND:20260404T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260404T125000Z
+SEQUENCE:0
+SUMMARY:БОС / Обеспечение целостности в ОС се
+ мейства Microsoft Windows\, ч.2
+UID:aa74e3fc-6f18-4c36-903d-a4cd61aa8c8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 19\nАудитория:
+  И-425\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND:20260407T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260407T065000Z
+SEQUENCE:0
+SUMMARY:НП / Практическое занятие 8
+UID:4cb4d0fb-7797-48de-80ec-c902b27ed18b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 37\nАудитория:
+  Военный учебный центр
+DTEND:20260413T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T065000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:7c49b2f1-e912-4a68-975d-b46f47dd9410
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 31\nАудитория:
+  Военный учебный центр
+DTEND:20260406T063500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T050000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:b353d00b-89e7-47da-b3e4-66286c5cc5f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 10\nАудитория:
+  Таганрог\, Спортзал № 1
+DTEND:20260417T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260417T125000Z
 SEQUENCE:0
 SUMMARY:Дисциплины ФКиС / Дисциплины по физи
  ческой культуре и спорту
-UID:83396e10-f549-4463-a7cd-5197581b21c4
+UID:3cf2bead-8856-465f-9f50-eb37c8e38338
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 4\nАудитория: И-2
- 41\nПреподаватели: Пескова Ольга Юрьевна
-DTEND:20260307T063500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260307T050000Z
-SEQUENCE:0
-SUMMARY:БОС / Аутентификация в ОС семейства Mi
- crosoft Windows\, ч.2
-UID:26ac395a-228d-423c-b053-e4b1915220f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 5\nАудитория: И-2
- 41\nПреподаватели: Пескова Ольга Юрьевна
-DTEND:20260310T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260310T065000Z
-SEQUENCE:0
-SUMMARY:БОС / Разграничение доступа в ОС семе
- йства Microsoft Windows\, ч.1
-UID:1786e370-41f3-4c38-8647-f888d1a3d317
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 7\nАудитория: 
- И-425\nПреподаватели: Романенко Кирилл Сер
- геевич
-DTEND:20260306T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260306T104500Z
-SEQUENCE:0
-SUMMARY:НП / Практическое занятие 3
-UID:0e1ad180-623c-4c8f-a044-66d94d75bf32
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 12\nАудитория:
+DESCRIPTION:Практическое занятие 33\nАудитория:
   Военный учебный центр
-DTEND:20260302T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T065000Z
+DTEND:20260406T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T085500Z
 SEQUENCE:0
 SUMMARY:Военная подготовка / Военная подгото
  вка
-UID:1185603b-b764-4d5f-b3c7-53ed9973e9f2
+UID:00b0a900-b23e-48ad-a4c9-77d46b8a866e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 2
-DTEND:20260304T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260304T104500Z
+DESCRIPTION:Лабораторное занятие 18\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND:20260409T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260409T085500Z
 SEQUENCE:0
-SUMMARY:ТПроект-2:100503 / Практическое занятие 2
-UID:2a48a35a-0d0c-4d20-b551-3c193347ec89
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 9\nАудитория: 
- Г-139\nПреподаватели: Князева Маргарита Вл
- адимировна
-DTEND:20260317T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260317T125000Z
-SEQUENCE:0
-SUMMARY:ОиПОИБ / Microsoft ThreatModelling Tool.
-UID:c416d45e-6f96-4684-bf3b-7c5fc0639786
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 8\nАудитория: 
- И-417\nПреподаватели: Ельчанинова Наталья 
- Борисовна
-DTEND:20260317T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260317T065000Z
-SEQUENCE:0
-SUMMARY:БПДиТЗД-1 / Лабораторное занятие 5
-UID:115b2263-49ac-4805-ab21-1600f667a78e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 8\nАудитория: Г-2
- 15\nПреподаватели: Алексеев Дмитрий Михай
- лович
-DTEND:20260303T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260303T085500Z
-SEQUENCE:0
-SUMMARY:НП / Лекционное занятие 4
-UID:3aee95b5-5048-41ce-8612-b55dcfe0f588
+SUMMARY:ЗИУпТК / Лабораторная работа № 1
+UID:bc00d72d-d0c3-46eb-8076-d53f4100c066
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Практическое занятие 9\nАудитория: 
- И-417\nПреподаватели: Романенко Кирилл Сер
- геевич
-DTEND:20260311T063500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260311T050000Z
+ Таганрог\, Тренажерный зал № 5
+DTEND:20260410T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260410T125000Z
 SEQUENCE:0
-SUMMARY:НП / Практическое занятие 4
-UID:ae3a6991-3568-4efc-8525-0b5c1b1f3d2a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 7\nАудитория: И-2
- 41\nПреподаватели: Помазанов Александр Ва
- сильевич
-DTEND:20260316T161000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T143500Z
-SEQUENCE:0
-SUMMARY:ЗИУпТК / Технические каналы утечки р
- ечевой информации.
-UID:db46dc9b-bc15-47c3-85bc-6c421645e0d8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 14\nАудитория:
-  Военный учебный центр
-DTEND:20260302T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T104500Z
-SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:5b0e4fcf-6456-4283-81cf-c97e11cba18c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 8\nАудитория: 
- И-233\nПреподаватели: Аксёнова Елена Викто
- ровна
-DTEND:20260305T161000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260305T143500Z
-SEQUENCE:0
-SUMMARY:ЗИУпТК / Лабораторная работа № 4
-UID:5a8cf1c4-4718-4eaf-9292-f54bedd04899
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:2e84a69a-cab0-4437-b4cb-9982e1f8bbd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Практическое занятие 7\nАудитория: 
  Таганрог\, Спортзал № 1\nПреподаватели: Д
  ебердеев Мурат Петрович
 DTEND:20260327T142500Z
-DTSTAMP:20260308T202256ZZ
+DTSTAMP:20260402T065805ZZ
 DTSTART:20260327T125000Z
 SEQUENCE:0
 SUMMARY:Дисциплины по физической культуре и 
  спорту Пятница 15.50 / Практическое заняти
  е
-UID:2c85a09a-9a2e-498d-a438-7b3d449cd115
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 17\nАудитория:
-  Военный учебный центр
-DTEND:20260316T082500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T065000Z
-SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:87ba3d5f-9d21-4854-a9a8-178353d544fa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 19\nАудитория:
-  Военный учебный центр
-DTEND:20260316T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T104500Z
-SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:6d9ca243-33fd-4947-b8ce-6b0b40473ef6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 5\nАудитория: И-2
- 41\nПреподаватели: Помазанов Александр Ва
- сильевич
-DTEND:20260302T161000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T143500Z
-SEQUENCE:0
-SUMMARY:ЗИУпТК / Электромагнитные каналы уте
- чки информации ТСПИ.
-UID:50ec93db-3a13-4bc1-8797-0074be28c1d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 10\nПреподавате
- ли: Жилин Сергей Викторович
-DTEND:20260320T175000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260320T161500Z
-SEQUENCE:0
-SUMMARY:ТОА-1 / Тема 6. Методы обнаружения атак
- . Контроль изменений каталогов и файлов. 
- Анализ журналов регистрации. Анализ сет
- евого трафика. Анализ уведомлений.
-UID:24f1c4f3-a308-4082-b76f-a9f6e0a03b5a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 7\nАудитория: И-4
- 09\nПреподаватели: Басан Александр Сергее
- вич
-DTEND:20260311T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260311T104500Z
-SEQUENCE:0
-SUMMARY:БПДиТЗД-1 / Лекционное занятие 3
-UID:94ebdf63-aa71-4b29-a672-dbb858c065f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лабораторное занятие 12\nАудитория:
-  И-233\nПреподаватели: Аксёнова Елена Викт
- оровна
-DTEND:20260319T161000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260319T143500Z
-SEQUENCE:0
-SUMMARY:ЗИУпТК / Лабораторная работа № 6
-UID:10d2be55-efe4-4542-a583-9549e3829b5b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 7\nАудитория: И-2
- 41\nПреподаватели: Пескова Ольга Юрьевна
-DTEND:20260321T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260321T125000Z
-SEQUENCE:0
-SUMMARY:БОС / Разграничение доступа в ОС семе
- йства Microsoft Windows\, ч.2
-UID:b8fcbcd5-3e18-480f-96f0-2e90c8ac3554
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 11\nАудитория: Г-
- 215\nПреподаватели: Алексеев Дмитрий Миха
- йлович
-DTEND:20260310T103000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260310T085500Z
-SEQUENCE:0
-SUMMARY:НП / Лекционное занятие 5
-UID:35e77b87-4ed4-448f-a056-01bf54ca5f41
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 20\nАудитория:
-  Военный учебный центр
-DTEND:20260316T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260316T125000Z
-SEQUENCE:0
-SUMMARY:Военная подготовка / Военная подгото
- вка
-UID:2201ab67-69a1-4504-9ff1-0c11d8eaba03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Практическое занятие 6\nАудитория: 
- Таганрог\, Спортзал № 2
-DTEND:20260320T142500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260320T125000Z
-SEQUENCE:0
-SUMMARY:Дисциплины ФКиС / Дисциплины по физи
- ческой культуре и спорту
-UID:d8d66c21-adae-4e49-9c5f-c755687d1dd6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 6\nПреподавател
- и: Жилин Сергей Викторович
-DTEND:20260306T175000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260306T161500Z
-SEQUENCE:0
-SUMMARY:ТОА-1 / Тема 4. Признаки атак. Источник
- и информации об атаках
-UID:ac3686b6-2129-47f7-8929-5e9e2195d7a3
+UID:efdd32b4-dd4c-4808-9e1a-75a5291a5caa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Практическое занятие 11\nАудитория:
+  Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND:20260424T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260424T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:2108c17f-a405-4184-af62-1dd0d59a67e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 12\nАудитория:
+  И-417\nПреподаватели: Ельчанинова Наталья
+  Борисовна
+DTEND:20260409T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260409T065000Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 8
+UID:41fb69cc-4af6-460f-9d30-22a696a13acf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 10\nАудитория:
+  Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND:20260417T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260417T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:0c0eb5f0-f1f6-4bab-a949-7acb6a893a74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 20\nАудитория:
+  И-233\nПреподаватели: Аксёнова Елена Викт
+ оровна
+DTEND:20260416T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260416T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Лабораторная работа № 2
+UID:5eee8fd5-fc4c-40bc-a8fe-4660b40d86af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 9\nАудитория: 
+ Таганрог\, Спортзал № 1\nПреподаватели: Д
+ ебердеев Мурат Петрович
+DTEND:20260410T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260410T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 15.50 / Практическое заняти
+ е
+UID:6e88e6b1-d99b-4d73-8f95-7cbcc83e6447
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 20\nАудитория:
+  И-417\nПреподаватели: Романенко Кирилл Се
+ ргеевич
+DTEND:20260411T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260411T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лабораторное занятие 4
+UID:168ed300-fe88-4edb-b169-a6920f5d8b8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 13\nАудитория:
+  И-419\nПреподаватели: Быстрая Злата Алекс
+ андровна
+DTEND:20260415T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260415T065000Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Лабораторная работа 3. Анализа
+ торы трафика tcpdump. Битовые маски. Ч.2
+UID:0965b9e1-f6ac-434a-ade5-5f3c3283f6e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 39\nАудитория:
   Военный учебный центр
-DTEND:20260302T063500Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260302T050000Z
+DTEND:20260413T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T104500Z
 SEQUENCE:0
 SUMMARY:Военная подготовка / Военная подгото
  вка
-UID:4249d715-4a05-4c03-83ab-a1fe00fc5518
+UID:e1080b44-78e3-4cd0-94b4-0ebf201dcb49
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 8\nПреподавател
- и: Жилин Сергей Викторович
-DTEND:20260313T175000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260313T161500Z
+DESCRIPTION:Практическое занятие 32\nАудитория:
+  Военный учебный центр
+DTEND:20260406T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T065000Z
 SEQUENCE:0
-SUMMARY:ТОА-1 / Тема 5. Признаки атак. Обнаруже
- ние следов атак.
-UID:2d6c5ec7-e681-42da-ac29-5a685fff9f93
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:d0f1a230-3d98-4b14-88e4-2ffd62369800
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лекционное занятие 7\nАудитория: Д-2
- 30\nПреподаватели: Князева Маргарита Влад
- имировна
-DTEND:20260310T122000Z
-DTSTAMP:20260308T202256ZZ
-DTSTART:20260310T104500Z
+DESCRIPTION:Практическое занятие 12\nАудитория:
+  Г-139\nПреподаватели: Князева Маргарита В
+ ладимировна
+DTEND:20260331T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260331T125000Z
 SEQUENCE:0
-SUMMARY:ОиПОИБ / СТАНДАРТЫ И ПРАКТИКИ УПРАВЛ
- ЕНИЯ РИСКАМИ ИБ. Microsoft Risk Management Руководст
- во по управлению рисками безопасности
-UID:dc313bb9-85b4-4f3a-9d34-16d3e487001b
+SUMMARY:ОиПОИБ / Проведение контрольной рабо
+ ты № 2 (тестирование)
+UID:671d82d0-a10f-4135-b850-60978b076c82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 18\nАудитория: Г-
+ 215\nПреподаватели: Алексеев Дмитрий Миха
+ йлович
+DTEND:20260331T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260331T085500Z
+SEQUENCE:0
+SUMMARY:НП / Лекционное занятие 8
+UID:4c87776f-5049-43cc-adec-db3d415b26ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 38\nАудитория:
+  Военный учебный центр
+DTEND:20260413T103000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260413T085500Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:05ba615a-6313-4cba-af69-8b0b4d43a47d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 11\nАудитория: И-
+ 241\nПреподаватели: Помазанов Александр В
+ асильевич
+DTEND:20260330T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Технические каналы утечки в
+ идовой информации.
+UID:2d1ebe94-94ad-406e-91b7-048bf2815575
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 12\nПреподавате
+ ли: Жилин Сергей Викторович
+DTEND:20260327T175000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260327T161500Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Тема 7. Анализ процессов\, серви
+ сов и портов. Получение дополнительной и
+ нформации. Особенности анализа процессо
+ в.
+UID:677d3487-1226-409a-8feb-b43aaa82fdec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 13\nАудитория: И-
+ 241\nПреподаватели: Помазанов Александр В
+ асильевич
+DTEND:20260406T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260406T143500Z
+SEQUENCE:0
+SUMMARY:ЗИУпТК / Средства выявления каналов 
+ утечки информации\, общие сведения.
+UID:6f680863-379d-44ab-9757-db51614b2a7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 16\nПреподавате
+ ли: Жилин Сергей Викторович
+DTEND:20260410T175000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260410T161500Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Тема 9. Обнаружение аномалий. К
+ онтроль поведения пользователей.
+UID:53a74ca5-ddf1-4a35-8699-41a13575bb7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 7\nАудитория: 
+ Таганрог\, Тренажерный зал № 5
+DTEND:20260327T142500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260327T125000Z
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:1f670eb6-6877-4626-a6a9-bf1a3f17c261
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 14\nАудитория:
+  И-417\nПреподаватели: Ельчанинова Наталья
+  Борисовна
+DTEND:20260414T082500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260414T065000Z
+SEQUENCE:0
+SUMMARY:БПДиТЗД-1 / Лабораторное занятие 9
+UID:fb54abcb-4e1b-4822-8b6e-aa63240b4c52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 26\nАудитория:
+  Военный учебный центр
+DTEND:20260330T063500Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260330T050000Z
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:374a4a85-7844-483f-a6ad-71e03d44e1e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 5
+DTEND:20260418T122000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260418T104500Z
+SEQUENCE:0
+SUMMARY:ТПроект-2:100503 / Практическое занятие 5
+UID:1d0afee5-dc83-4acf-a856-19f20a817f78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 11\nАудитория:
+  И-419\nПреподаватели: Быстрая Злата Алекс
+ андровна
+DTEND:20260409T161000Z
+DTSTAMP:20260402T065805ZZ
+DTSTART:20260409T125000Z
+SEQUENCE:0
+SUMMARY:ТОА-1 / Лабораторная работа 3. Анализа
+ торы трафика tcpdump. Битовые маски. Ч.1
+UID:efcccac4-63f2-47e7-a4fd-731b22c2bb26
 END:VEVENT
 END:VCALENDAR
